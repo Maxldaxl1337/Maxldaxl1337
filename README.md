@@ -1,4 +1,5 @@
-👋 Harken, good people! Meet Maxl, a youthful squire who hath taken up the mantle of programming and embarked on a quest to master the art of web technologies.
+👋 Harken, good people! 
+Meet Maxl, a youthful squire who hath taken up the mantle of programming and embarked on a quest to master the art of web technologies.
 
 With great ardor and unwavering resolve, Maxl hath immersed himself in the ways of HTML, CSS, and Javascript, and hath delved into the arcane secrets of Dart and C++. He spends his days and nights in pursuit of knowledge, ever honing his skills and crafting wondrous works of digital art.
 
