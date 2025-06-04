@@ -4,7 +4,7 @@
 <h3 align="center">Web Developer | TYPO3 & more</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Conquer.;Frontend+Magic+in+TYPO3+%26+React.;Building+a+Dark+OS+Game+Simulator&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Learn.;Frontend+Magic+in+TYPO3.;Turning+curiosity+into+code+—+one+side+project+at+a+time.&center=true&width=500&height=45">
 </p>
 
 ---
@@ -12,8 +12,8 @@
 ### 🧠 About Me
 
 - 💻 Frontend Web Developer specializing in **custom TYPO3 websites**.
-- 🏔️ Based in **Tyrol**
-- 🗣️ Fluent in **German**, **English**, and **Italian**
+- 🏔️ Based in **Tyrol**.
+- 🗣️ Fluent in **German**, **English**, and **Italian**.
 - 🧪 Building side projects for fun — from **Electron-based desktop apps** to **small indie games with Godot**.
 - 🎯 Focused on learning & experimenting.
 
@@ -45,7 +45,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://maxldaxl.github.io/portfolio"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome"></a>
+  <a href="https://maxldaxl1337.github.io/portfolio"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome"></a>
   <a href="https://linkedin.com/in/maximilian-hütter-61a016262"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:maxihuetter123@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail"></a>
 </p>
