@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Framework-TYPO3-orange?logo=typo3&logoColor=white" />
   <img src="https://img.shields.io/badge/JS-React-61DAFB?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Style-SCSS-pink?logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-GameDev-gray?logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-GameDev-478CBF?logo=godot-engine&logoColor=white" />
 </div>
 
 ---
@@ -39,10 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxldaxl1337&theme=tokyonight&hide_border=false" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maxldaxl1337&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
