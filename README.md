@@ -1,7 +1,7 @@
 <!-- README.md for your GitHub profile -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">Frontend Web Developer | TYPO3 Expert | Dark UI Enthusiast</h3>
+<h1 align="center">Maximilian Hütter</h1>
+<h3 align="center">Web Developer | TYPO3 & more</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Conquer.;Frontend+Magic+in+TYPO3+%26+React.;Building+a+Dark+OS+Game+Simulator&center=true&width=500&height=45">
@@ -11,11 +11,11 @@
 
 ### 🧠 About Me
 
-- 💻 Frontend Web Developer specializing in **custom TYPO3 websites**, especially for hotels and complex content structures.
-- 🎮 Currently crafting a **dark/horror fake-OS game** with **React + Electron**, styled with love in **SCSS**.
-- 🧰 Comfortable with custom installations, CLI workflows, and editor wars between **VSCode**, **PhpStorm**, and **WebStorm**.
-- 🌍 Fluent in Tyrolean dialect, German, English, and learning Russian 🇷🇺
-- ⚠️ Firm stance: no gendered language in my code or communication.
+- 💻 Frontend Web Developer specializing in **custom TYPO3 websites**.
+- 🏔️ Based in **Tyrol**
+- 🗣️ Fluent in **German**, **English**, and **Italian**
+- 🧪 Building side projects for fun — from **Electron-based desktop apps** to **small indie games with Godot**.
+- 🎯 Focused on learning & experimenting.
 
 ---
 
