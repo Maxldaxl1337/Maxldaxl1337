@@ -1,10 +1,8 @@
-<!-- README.md for your GitHub profile -->
-
 <h1 align="center">Maximilian Hütter</h1>
 <h3 align="center">Web Developer | TYPO3 & more</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Learn.;Frontend+Magic+in+TYPO3.;Client+work+and+side+quests.&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Learn.;Frontend+Magic+in+TYPO3.;Turning+ideas+into+code.&center=true&width=500&height=45">
 </p>
 
 ---
@@ -14,7 +12,6 @@
 - 💻 Frontend Web Developer specializing in **custom TYPO3 websites**.
 - 🏔️ Based in **Tyrol**.
 - 🗣️ Fluent in **German**, **English**, and **Italian**.
-- 🧪 Building side projects for fun — from **Electron-based desktop apps** to **small indie games with Godot**.
 - 🎯 Focused on learning & experimenting.
 
 ---
@@ -50,15 +47,6 @@
 
 ---
 
-### 🐍 Contributions
-
-<!-- Update the image path to match your username/repo -->
-<p align="center">
-  <img src="https://github.com/Maxldaxl1337/Maxldaxl1337/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
@@ -76,3 +64,5 @@
 OS: Windows & macOS
 Editor: VSCode, PhpStorm, WebStorm
 Languages: HTML, CSS/SCSS, JavaScript, PHP, Typoscript, GodotScript, C++
+```
+</details> 
