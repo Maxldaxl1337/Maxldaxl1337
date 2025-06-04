@@ -36,8 +36,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxldaxl1337&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxldaxl1337&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -45,9 +45,9 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail"></a>
+  <a href="https://maxldaxl.github.io/portfolio"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/maximilian-hütter-61a016262"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:maxihuetter123@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail"></a>
 </p>
 
 ---
@@ -56,7 +56,6 @@
 <summary>⚙️ Dev Setup</summary>
 
 ```bash
-OS: Arch Linux / macOS / Windows WSL
+OS: Windows & macOS
 Editor: VSCode, PhpStorm, WebStorm
-Languages: HTML, CSS/SCSS, JavaScript, PHP
-Frameworks: TYPO3, React, Electron
+Languages: HTML, CSS/SCSS, JavaScript, PHP, Typoscript, Godotscript, C++
