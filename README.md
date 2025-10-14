@@ -9,10 +9,9 @@
 
 ### 🧠 About Me
 
-- 💻 Frontend Web Developer specializing in **custom TYPO3 websites**.
+- 💻 Frontend Web Developer.
 - 🏔️ Based in **Tyrol**.
-- 🗣️ Fluent in **German**, **English**, and **Italian**.
-- 🎯 Focused on learning & experimenting.
+- 🗣️ Speaking **German**, **English**, and **Italian**.
 
 ---
 
@@ -46,7 +45,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://maxldaxl1337.github.io/portfolio"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome"></a>
+  <a href="https://maxldaxl1337.github.io/web_portfolio_v2"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome"></a>
   <a href="https://linkedin.com/in/maximilian-hütter-61a016262"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:maxihuetter123@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail"></a>
 </p>
