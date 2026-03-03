@@ -1,5 +1,5 @@
 <h1 align="center">Maximilian Hütter</h1>
-<h3 align="center">Web Developer | TYPO3 & more</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Learn.;Frontend+Magic+in+TYPO3.;Turning+ideas+into+code.&center=true&width=500&height=45">
@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 💻 Frontend Web Developer.
+- 💻 Web Developer.
 - 🏔️ Based in **Tyrol**.
 - 🗣️ Speaking **German**, **English**, and **Italian**.
 
@@ -51,13 +51,3 @@
 </p>
 
 ---
-
-<details>
-<summary>⚙️ Dev Setup</summary>
-
-```bash
-OS: Windows & macOS
-Editor: VSCode, PhpStorm, WebStorm
-Languages: HTML, CSS/SCSS, JavaScript, PHP, Typoscript, GodotScript, C++
-```
-</details> 
