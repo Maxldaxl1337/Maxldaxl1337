@@ -15,27 +15,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-PhpStorm-purple?logo=phpstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-WebStorm-lightblue?logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-TYPO3-orange?logo=typo3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS-React-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-SCSS-pink?logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-GameDev-478CBF?logo=godot-engine&logoColor=white" />
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxldaxl1337&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxldaxl1337&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxldaxl1337&theme=tokyonight&hide_border=false" height="165" />
 </p>
