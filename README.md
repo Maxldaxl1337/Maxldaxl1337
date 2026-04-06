@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design+Code.+Improve.;Frontend.+Backend.+Hosting.;Turning+ideas+into+code.&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Design.+Code.+Improve.;Frontend.+Backend.+Hosting.;Turning+ideas+into+code.&center=true&width=500&height=45">
 </p>
 
 ---
