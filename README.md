@@ -15,11 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Tyrol-e0a458?style=flat-square&labelColor=14130f" />
-  <img src="https://img.shields.io/badge/Open%20for-cool%20projects-f3c98b?style=flat-square&labelColor=14130f" />
-</p>
-
 ---
 
 ## About Me
