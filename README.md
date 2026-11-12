@@ -53,10 +53,6 @@ const max = {
   <img src="https://streak-stats.demolab.com/?user=Maxldaxl1337&background=14130F&ring=E0A458&fire=F3C98B&currStreakNum=F1ECE2&sideNums=E0A458&currStreakLabel=E0A458&sideLabels=F1ECE2&dates=A9A194&stroke=3A342A&hide_border=true&border_radius=12" height="170" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maxldaxl1337/Maxldaxl1337/output/snake.svg" width="95%" alt="Contribution snake" />
-</p>
-
 ---
 
 ## Let's Connect
